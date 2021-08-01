@@ -22,8 +22,8 @@ public class MoviesRepository {
 
     //    Campos estáticos
     public static final String POPULAR = "popular";
-    public static final String TOP_RATE = "top_rate";
-    public static final String UPCOMING = "upcoming";
+    public static final String TOP_RATE = "tasa superior";
+    public static final String UPCOMING = "próxima";
     public static final String TMDB_API_KEY = "112d2d99cb1a29bdafde742aeb373107";
 
     //URL para recuperar películas
