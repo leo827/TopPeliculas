@@ -10,12 +10,12 @@
     <item
         android:id="@+id/top_rate"
         android:enabled="true"
-        android:title="Top Rate"
+        android:title="Tasa superior"
         app:showAsAction="never" />
     <item
         android:id="@+id/upcoming"
         android:enabled="true"
-        android:title="Upcoming"
+        android:title="Próximo"
         app:showAsAction="never" />
 
 </menu>

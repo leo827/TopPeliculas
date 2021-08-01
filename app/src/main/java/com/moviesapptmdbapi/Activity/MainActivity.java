@@ -191,7 +191,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void showError() {
-        Toast.makeText(MainActivity.this, "Please check your internet connection.", Toast.LENGTH_LONG).show();
+        Toast.makeText(MainActivity.this, "Por favor revise su conexion a internet.", Toast.LENGTH_LONG).show();
     }
 
 }

@@ -203,7 +203,7 @@ public class MovieActivity extends AppCompatActivity {
     }
 
     private void showError() {
-        Toast.makeText(MovieActivity.this, "Please Check your internet Connection", Toast.LENGTH_LONG).show();
+        Toast.makeText(MovieActivity.this, "Por favor revise su conexion a internet", Toast.LENGTH_LONG).show();
     }
 
 }
